@@ -1,0 +1,15 @@
+.container {
+    padding: 50px;
+    margin: 20px;
+    display: inline-block;
+}
+
+
+.card {
+    padding: 50px;
+    margin: 20px;
+}
+
+.row{
+    float: right;
+}
