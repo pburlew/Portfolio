@@ -1,15 +1,13 @@
-.container {
+.flex-container {
+    display:flex;
+    flex-direction: column;
     padding: 50px;
     margin: 20px;
-    display: inline-block;
 }
 
 
 .card {
-    padding: 50px;
+    padding: 20px;
     margin: 20px;
 }
 
-.row{
-    float: right;
-}
