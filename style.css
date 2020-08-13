@@ -5,6 +5,7 @@
     margin: 20px;
 }
 
+/* I tried to use flex-container and felx-direction column so the text and photo would not overlap, but having issues */
 
 .card {
     padding: 20px;
