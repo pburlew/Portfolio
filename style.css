@@ -5,10 +5,22 @@
     margin: 20px;
 }
 
+#text{
+    margin:20px;
+    padding: 20px;
+}
 /* I tried to use flex-container and felx-direction column so the text and photo would not overlap, but having issues */
 
 .card {
     padding: 20px;
     margin: 20px;
 }
+ 
+#form{
+     padding:20px;
+     margin:20px;
+ }
 
+ /* body{
+     background-image: img src=
+ } */
