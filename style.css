@@ -21,11 +21,12 @@
     margin:20px;
     padding: 20px;
     background-color:white;
+  
 }
 /* photo on home page  */
 .card {
-    padding: 20px;
-    margin: 20px;
+    padding: 10px;
+    margin: 10px;
 }
 
 /* PORTFOLIO PAGE  */
@@ -41,6 +42,13 @@
 #form{
      padding:100px;
      margin:20px;
+ }
+ h2{
+     position: relative;
+     text-align: center;
+     color: white;
+     padding-top: 50px;
+     padding-bottom: 20px;
  }
 
  /* PORTFOLIO  PAGE*/
