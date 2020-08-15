@@ -1,54 +1,49 @@
+
+ body {
+    background-image: url('Assets/Images/background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+  }
+
+
+
+/* HOME PAGE  */
 /* container on home page text/ picture card  */
 .flex-container {
     display:flex;
     flex-direction: column;
     padding: 50px;
-    margin: 20px;
+    margin: 10px;
 }
- /* container on portfolio page  */
-.container-fluid {
-    padding: 50px;
-    margin: 20px;
-
-}
-
-/* photos on port page  */
-/* .col-md-4{
-    position: relative;
-} */
-
-/* images on port page  */
-/* @media (min-width: 768px){
-    flex: 33%;
-    max-width: 33%;
-} */
-
-
 #text{
     margin:20px;
     padding: 20px;
+    background-color:white;
 }
-
 /* photo on home page  */
 .card {
     padding: 20px;
     margin: 20px;
 }
 
+/* PORTFOLIO PAGE  */
+ /* container on portfolio page  */
+.container-fluid {
+    padding: 50px;
+    margin: 20px;
+
+}
+/* CONTACT PAGE  */
 /* form on contact page  */
  
 #form{
-     padding:20px;
+     padding:100px;
      margin:20px;
  }
 
- body{
-     background-image: img src="Assets/Images/background.png"
- }
-
-
- /* PORTFOLIO */
-
+ /* PORTFOLIO  PAGE*/
  .row {
     display: flex;
     flex-wrap: wrap;
