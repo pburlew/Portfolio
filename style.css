@@ -58,6 +58,14 @@
     flex-wrap: wrap;
     padding: 0 4px;
   }
+
+  .imgtext{
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 5px;
+  }
   
   /* Create four equal columns that sits next to each other */
   .column {
