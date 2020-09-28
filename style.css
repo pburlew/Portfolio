@@ -7,6 +7,8 @@
 
   }
 
+  
+
 
 
 /* HOME PAGE  */
@@ -15,19 +17,27 @@
     display:flex;
     flex-direction: column;
     padding: 10px;
-    margin: 10px;
+    margin: 10px auto;
+    /* border: 10px solid  magenta; */
 }
 #text{
-    margin:20px;
-    padding: 20px;
+    margin:10px auto;
+    padding: 10px auto;
     background-color:white;
     text-align: justify;
+    /* border: 10px solid  yellow; */
   
 }
 /* photo on home page  */
 .card {
     padding: 10px;
-    margin: 10px;
+    margin: 10px auto;
+    /* border: 10px solid  green;
+} */
+
+.card-text{
+  /* border: 10px solid  orange; */
+  text-align: center;
 }
 
 /* PORTFOLIO PAGE  */
